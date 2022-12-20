@@ -1,1 +1,143 @@
 
+        <style>
+header {
+  background-color: #dddddd;
+  width: 1600px;
+  border: 15px solid  #e59edc;
+  padding: 30px;
+  margin: 20px;}
+*{box-sizing:border-box}
+.header{border:15px solid red; padding:15px;}
+.main{ width:75%; float:left; padding:15px; border: 1px solid red;}
+    
+    
+section {
+  background-color: #dddddd;
+  width: 1600px;
+  border: 15px solid  #e59edc;
+  padding: 30px;
+  margin: 20px;}
+*{box-sizing:border-box}
+.header{border:1px solid red; padding:15px;}
+.main{ width:75%; float:left; padding:15px; border: 1px solid red;}
+
+
+footer {
+  background-color: #dddddd;
+  width: 1600px;
+  border: 15px solid  #e59edc;
+  padding: 30px;
+  margin: 20px;}
+*{box-sizing:border-box}
+.header{border:1px solid red; padding:15px;}
+.main{ width:75%; float:rigth; padding:15px; border: 1px solid red;}
+
+h1{color:Coral; text-align:center}
+h2{color:MediumSlateBlue}  
+
+div id="btnlinux"{
+  background-color: #dddddd;
+  width: 10px;
+  border: 15px solid  #e59edc;
+  padding: 30px;
+  margin: 20px;}
+*{box-sizing:border-box}
+.header{border:1px solid red; padding:15px;}
+.main{ width:75%; float:center; padding:15px; border: 1px solid red;}
+
+ 
+div class="clslinux"{
+  background-color: #dddddd;
+  width: 300px;
+  border: 15px solid  #e59edc;
+  padding: 30px;
+  margin: 20px;}
+*{box-sizing:border-box}
+.header{border:1px solid red; padding:15px;}
+.main{ width:75%; float:left; padding:15px; border: 1px solid red;
+
+}
+
+div class="clslinuxantivirus"{
+  background-color: #dddddd;
+  width: 300px;
+  border: 15px solid  #e59edc;
+  padding: 30px;
+  margin: 20px;}
+*{box-sizing:border-box}
+.header{border:1px solid red; padding:15px;}
+.main{ width:75%; float:left; padding:15px; border: 1px solid red;}
+
+}   
+
+div class="clslinuxrecupera"{
+  background-color: #dddddd;
+  width: 300px;
+  border: 15px solid  #e59edc;
+  padding: 30px;
+  margin: 20px;}
+*{box-sizing:border-box}
+.header{border:1px solid red; padding:15px;}
+.main{ width:75%; float:left; padding:15px; border: 1px solid red;}
+
+div class="clslinuxadicional"{
+  background-color: #dddddd;
+  width: 300px;
+  border: 15px solid  #e59edc;
+  padding: 30px;
+  margin: 20px;}
+*{box-sizing:border-box}
+.header{border:1px solid red; padding:15px;}
+.main{ width:75%; float:left; padding:15px; border: 1px solid red;}
+
+div id="windows"{
+  background-color: #dddddd;
+  width: 300px;
+  border: 15px solid  #e59edc;
+  padding: 30px;
+  margin: 20px;}
+*{box-sizing:border-box}
+.header{border:1px solid red; padding:15px;}
+.main{ width:75%; float:left; padding:15px; border: 1px solid red;}
+
+}
+div id="ofimaticawindows"{
+  background-color: #dddddd;
+  width: 300px;
+  border: 15px solid  #e59edc;
+  padding: 30px;
+  margin: 20px;}
+*{box-sizing:border-box}
+.header{border:1px solid red; padding:15px;}
+.main{ width:75%; float:left; padding:15px; border: 1px solid red;}
+
+div id="antiviruswindows"{
+  background-color: #dddddd;
+  width: 300px;
+  border: 15px solid  #e59edc;
+  padding: 30px;
+  margin: 20px;}
+*{box-sizing:border-box}
+.header{border:1px solid red; padding:15px;}
+.main{ width:75%; float:left; padding:15px; border: 1px solid red;}
+
+div id="recuperawindows"{
+  background-color: #dddddd;
+  width: 300px;
+  border: 15px solid  #e59edc;
+  padding: 30px;
+  margin: 20px;}
+*{box-sizing:border-box}
+.header{border:1px solid red; padding:15px;}
+.main{ width:75%; float:left; padding:15px; border: 1px solid red;}
+
+div id="adicionalwindows"{
+  background-color: #dddddd;
+  width: 300px;
+  border: 15px solid  #e59edc;
+  padding: 30px;
+  margin: 20px;}
+*{box-sizing:border-box}
+.header{border:1px solid red; padding:15px;}
+.main{ width:75%; float:left; padding:15px; border: 1px solid red;}
+            </style>
